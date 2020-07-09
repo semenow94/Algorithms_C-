@@ -1,0 +1,7 @@
+C:\Users\Дмитрий\Documents\progs\Algorithms_C\Algorithms_C\obj\Debug\Semenov_Ln1.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Documents\progs\Algorithms_C\Algorithms_C\obj\Debug\Semenov_Ln1.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Documents\progs\Algorithms_C\Algorithms_C\obj\Debug\Algorithms_C.exe
+C:\Users\Дмитрий\Documents\progs\Algorithms_C\Algorithms_C\obj\Debug\Algorithms_C.pdb
+C:\Users\Дмитрий\Documents\progs\Algorithms_C\Algorithms_C\bin\Debug\Algorithms_C.exe.config
+C:\Users\Дмитрий\Documents\progs\Algorithms_C\Algorithms_C\bin\Debug\Algorithms_C.exe
+C:\Users\Дмитрий\Documents\progs\Algorithms_C\Algorithms_C\bin\Debug\Algorithms_C.pdb
