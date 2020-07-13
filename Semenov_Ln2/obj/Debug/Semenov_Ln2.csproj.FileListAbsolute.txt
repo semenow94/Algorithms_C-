@@ -1,0 +1,7 @@
+C:\Users\Дмитрий\Documents\progs\Algorithms_C\Semenov_Ln2\bin\Debug\Semenov_Ln2.exe.config
+C:\Users\Дмитрий\Documents\progs\Algorithms_C\Semenov_Ln2\bin\Debug\Semenov_Ln2.exe
+C:\Users\Дмитрий\Documents\progs\Algorithms_C\Semenov_Ln2\bin\Debug\Semenov_Ln2.pdb
+C:\Users\Дмитрий\Documents\progs\Algorithms_C\Semenov_Ln2\obj\Debug\Semenov_Ln2.csprojAssemblyReference.cache
+C:\Users\Дмитрий\Documents\progs\Algorithms_C\Semenov_Ln2\obj\Debug\Semenov_Ln2.csproj.CoreCompileInputs.cache
+C:\Users\Дмитрий\Documents\progs\Algorithms_C\Semenov_Ln2\obj\Debug\Semenov_Ln2.exe
+C:\Users\Дмитрий\Documents\progs\Algorithms_C\Semenov_Ln2\obj\Debug\Semenov_Ln2.pdb
